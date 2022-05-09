@@ -81,13 +81,13 @@ const keyboardLayout = [
         {
             code: 'Backspace',
             func: true,
-            lang: { en: '⌫ Back', ru: '⌫ Back' },
+            lang: { en: 'Back', ru: 'Back' },
             width: 'wide',
         },
         {
             code: 'Delete',
             func: true,
-            lang: { en: 'Del ⌦', ru: 'Del ⌦' },
+            lang: { en: 'Del', ru: 'Del' },
             width: 'wide',
         },
     ],
@@ -95,7 +95,7 @@ const keyboardLayout = [
         {
             code: 'Tab',
             func: true,
-            lang: { en: '↹ Tab', ru: '↹ Tab' },
+            lang: { en: 'Tab', ru: 'Tab' },
             width: 'extra-wide',
         },
         {
@@ -181,7 +181,7 @@ const keyboardLayout = [
         {
             code: 'CapsLock',
             func: true,
-            lang: { en: '🅰 Caps', ru: '🅰 Caps' },
+            lang: { en: 'CapsLock', ru: 'CapsLock' },
             width: 'extra-wide',
         },
         {
@@ -253,7 +253,7 @@ const keyboardLayout = [
         {
             code: 'Enter',
             func: true,
-            lang: { en: '↩ Enter', ru: '↩ Enter' },
+            lang: { en: 'Enter', ru: 'Enter' },
             width: 'extra-wide',
         },
     ],
@@ -261,7 +261,7 @@ const keyboardLayout = [
         {
             code: 'ShiftLeft',
             func: true,
-            lang: { en: '⇧ Shift', ru: '⇧ Shift' },
+            lang: { en: 'Shift', ru: 'Shift' },
             width: 'extra-wide',
         },
         {
@@ -333,7 +333,7 @@ const keyboardLayout = [
         {
             code: 'ShiftRight',
             func: true,
-            lang: { en: '⇧ Shift', ru: '⇧ Shift' },
+            lang: { en: 'Shift', ru: 'Shift' },
             width: 'extra-wide',
         },
     ],

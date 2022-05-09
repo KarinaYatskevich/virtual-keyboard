@@ -47,9 +47,10 @@ body {
     width: 100%;
     margin: 1% auto;
     padding: 1%;
-    border: 1px solid #b4b4b4;
+    border: 1px solid #141414;
     border-radius: 5px;
     user-select: none;
+    background: #777676;
 }
 
 .keyboard__row {
@@ -62,9 +63,8 @@ body {
     height: 50px;
     width: 50px;
     margin: 3px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.6rem;
-    border: 1px solid #b4b4b4;
+    border: 1px solid #302f2f;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     cursor: pointer;
@@ -74,7 +74,7 @@ body {
 
 .keyboard__key.active {
     background: rgba(48, 48, 48, 0.2);
-    border-radius: 15px;
+    border-radius: 7px;
     box-shadow: none;
 }
 
